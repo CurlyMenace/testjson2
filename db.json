@@ -1,6 +1,6 @@
 {
   "data":
-  [
+  {
     "Craig":[
       {"x": "Benign", "y": 5},
       {"x": "Caution", "y": 12},
@@ -16,6 +16,6 @@
       {"x": "Caution", "y": 18},
       {"x": "Malicious", "y": 57}
     ]
-  ]
+  }
   
 }
