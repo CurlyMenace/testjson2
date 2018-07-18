@@ -1,8 +1,18 @@
 {
-  "sampledata":[
-    {"x": "Craig", "y": 5},
-    {"x": "Paddy", "y": 12},
-    {"x": "Fernando", "y": 15}
-  ]
+  "Craig":[
+    {"x": "Benign", "y": 5},
+    {"x": "Caution", "y": 12},
+    {"x": "Malicious", "y": 15}
+  ];
+  "Paddy":[
+    {"x": "Benign", "y": 7},
+    {"x": "Caution", "y": 8},
+    {"x": "Malicious", "y": 22}
+  ];
+"Fernando":[
+    {"x": "Benign", "y": 13},
+    {"x": "Caution", "y": 18},
+    {"x": "Malicious", "y": 57}
+  ];
   
 }
