@@ -1,21 +1,29 @@
 {
-  "data":
-  {
-    "Craig":[
-      {"x": "Benign", "y": 5},
-      {"x": "Caution", "y": 12},
-      {"x": "Malicious", "y": 15}
-    ],
-    "Paddy":[
-      {"x": "Benign", "y": 7},
-      {"x": "Caution", "y": 8},
-      {"x": "Malicious", "y": 22}
-    ],
-  "Fernando":[
-      {"x": "Benign", "y": 13},
-      {"x": "Caution", "y": 18},
-      {"x": "Malicious", "y": 57}
-    ]
-  }
-  
+  {"owner":"Craig", "type":"Malicious", "date":29-06-2018},
+  {"owner":"Paddy", "type":"Malicious", "date":28-06-2018},
+  {"owner":"Fernando", "type":"Malicious", "date":27-06-2018},
+  {"owner":"Craig", "type":"Benign", "date":29-07-2018},
+  {"owner":"Paddy", "type":"Benign", "date":28-05-2018},
+  {"owner":"Fernando", "type":"Benign", "date":27-04-2018},
+  {"owner":"Craig", "type":"Cautious", "date":29-05-2018},
+  {"owner":"Paddy", "type":"Cautious", "date":28-06-2018},
+  {"owner":"Fernando", "type":"Cautious", "date":27-07-2018},
+  {"owner":"Craig", "type":"Malicious", "date":29-08-2018},
+  {"owner":"Paddy", "type":"Malicious", "date":28-04-2018},
+  {"owner":"Fernando", "type":"Malicious", "date":27-05-2018},
+  {"owner":"Craig", "type":"Benign", "date":29-03-2018},
+  {"owner":"Paddy", "type":"Benign", "date":28-04-2018},
+  {"owner":"Fernando", "type":"Benign", "date":27-02-2018},
+  {"owner":"Craig", "type":"Cautious", "date":29-04-2018},
+  {"owner":"Paddy", "type":"Cautious", "date":28-05-2018},
+  {"owner":"Fernando", "type":"Cautious", "date":27-04-2018},
+  {"owner":"Craig", "type":"Malicious", "date":29-03-2018},
+  {"owner":"Paddy", "type":"Malicious", "date":28-03-2018},
+  {"owner":"Fernando", "type":"Malicious", "date":27-02-2018},
+  {"owner":"Craig", "type":"Benign", "date":29-01-2018},
+  {"owner":"Paddy", "type":"Benign", "date":28-05-2018},
+  {"owner":"Fernando", "type":"Benign", "date":27-06-2018},
+  {"owner":"Craig", "type":"Cautious", "date":29-03-2018},
+  {"owner":"Paddy", "type":"Cautious", "date":28-02-2018},
+  {"owner":"Fernando", "type":"Cautious", "date":27-04-2018}, 
 }
